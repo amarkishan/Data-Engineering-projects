@@ -1,5 +1,5 @@
 import requests
-api_key='6af58f92333953aae332201f0a0965a9'
+api_key=''
 base_url="https://api.openweathermap.org/data/2.5/"
 endpoint="weather"
 
